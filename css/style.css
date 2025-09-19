@@ -1,0 +1,32 @@
+body{
+  font-family: Apple Chancery, cursive;
+  font-size: 150%;
+}
+header{
+  background-color: #f5d4d4;
+}
+nav{
+  background-color: #f0aaaa;
+  
+}
+main{
+  background-color: #f4e5e5;
+  font-size: 120%;
+}
+footer{
+  background-color:#ccf0e4;
+}
+
+li{
+  display: inline;
+  width: 800px;
+}
+h1{
+  text-align: center;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: darkblue;
+
+}
+p{
+  line-height: 2cm;
+}
